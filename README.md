@@ -25,14 +25,7 @@ PDF-Merger is a Python script that allows you to merge multiple PDF files into a
 
 4. When prompted, enter the names of the PDF files you want to merge, separated by commas.
 5. The merged PDF file will be generated as `merged-pdf.pdf` in the same directory.
-## Contributing
 
-Contributions to the PDF-Merger project are welcome! If you find any issues or have suggestions for improvements, please feel free to create a pull request.
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 - Chaitany Chaudhary
